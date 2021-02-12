@@ -24,25 +24,25 @@ Computing clustering with DBSCAN for the 1st of September at 6PM.
 
 - INPUT FILES : uber_pickups_1_09_6PM.csv
 
-- OUTPUT FILE : MAP
+- OUTPUT FILE : Scatter map of the different clusters
 
 ### 2.Uber_Pickups-Kmeans-day_hour_selection.ipynb
 Computing clustering with KMeans for the 1st of September at 6PM.
 
 - INPUT FILES : uber_pickups_1_09_6PM.csv
 
-- OUTPUT FILE : MAP
+- OUTPUT FILE : Scatter map of the different clusters 'Kmeans_clustering-uber_pickups_1_09_6PM.html'
 
 ### 3.Uber_Pickups-DBSCAN-week_generalization.ipynb
 Generalizing DBSCAN clustering for a week.
 
 - INPUT FILES : uber_pickups_week36.csv
 
-- OUTPUT FILE : MAP
+- OUTPUT FILE : Scatter map of the different clusters
 
 ### 3.Uber_Pickups-Kmeans-week_generalization.ipynb
 Generalizing DBSCAN clustering for a week.
 
 - INPUT FILES : uber_pickups_week36.csv
 
-- OUTPUT FILE : MAP
+- OUTPUT FILE : Scatter map of the different clusters
