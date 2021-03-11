@@ -11,7 +11,7 @@ Users are not ready to wait 10 to 15 minutes before being picked-up. Uber's rese
 ### USAGE
 
 ### 1.Uber_Pickups-Preprocessing.ipynb
-Understanding and cleaning dataset. Selecting a givin day and then generalizing to a week.
+Understanding and cleaning dataset. Selecting a given day and then generalizing to a week.
 
 - INPUT FILES : uber-raw-data-sep14.csv
 
